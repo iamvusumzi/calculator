@@ -45,6 +45,19 @@ button {
     border: none;
 }
 
+.reset {
+    margin-top: 10px;
+
+    margin-left: 10px;
+    /* display: flex;
+    justify-content: center; */
+}
+
+.reset button {
+    border-radius: 50px;
+    width: 160px;
+}
+
 .function {
     color: white;
     background-color: orange;
